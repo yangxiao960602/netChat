@@ -1,0 +1,9 @@
+C:\Users\SEAN\Desktop\研一上\先进软件技术工具\上机作业\网络交谈\NetChat\Server\bin\Debug\Server.exe
+C:\Users\SEAN\Desktop\研一上\先进软件技术工具\上机作业\网络交谈\NetChat\Server\bin\Debug\Server.pdb
+C:\Users\SEAN\Desktop\研一上\先进软件技术工具\上机作业\网络交谈\NetChat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\SEAN\Desktop\研一上\先进软件技术工具\上机作业\网络交谈\NetChat\Server\obj\Debug\Server.FmServer.resources
+C:\Users\SEAN\Desktop\研一上\先进软件技术工具\上机作业\网络交谈\NetChat\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\SEAN\Desktop\研一上\先进软件技术工具\上机作业\网络交谈\NetChat\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\SEAN\Desktop\研一上\先进软件技术工具\上机作业\网络交谈\NetChat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\SEAN\Desktop\研一上\先进软件技术工具\上机作业\网络交谈\NetChat\Server\obj\Debug\Server.exe
+C:\Users\SEAN\Desktop\研一上\先进软件技术工具\上机作业\网络交谈\NetChat\Server\obj\Debug\Server.pdb
